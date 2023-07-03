@@ -1,9 +1,10 @@
+<%@ page language="java" contentType="text/html; charset=UTF-8"
+    pageEncoding="UTF-8"%>
 <!DOCTYPE html>
 <html>
 <head>
 <meta charset="UTF-8">
-<title>로그인 : 경기도사이버도서관</title>
-<link rel="stylesheet" href="./css/login.css">
+<title>Insert title here</title>
 <link rel="shortcut icon" href="./img/favicon.ico">
 </head>
 <body>
@@ -111,5 +112,6 @@
 		<!-- 푸터끝 -->
 		
 	</div>
+
 </body>
 </html>
